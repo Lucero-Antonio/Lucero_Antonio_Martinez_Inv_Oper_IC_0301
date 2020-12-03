@@ -1,0 +1,6 @@
+<map id="main" name="main">
+<area shape="rect" id="node1" title=" " alt="" coords="5,56,56,83"/>
+<area shape="rect" id="node2" href="$camino_8c.html#a3b14ebf308fbdb19a9d21c59598fff09" title="Busca si existe un camino entre a y b (funcion en proceso de mejora*)" alt="" coords="107,5,227,32"/>
+<area shape="rect" id="node3" href="$camino_8c.html#a5680fbe99a1eeef696f060b2da15e37f" title="Pide la posición de las adyacencias." alt="" coords="104,56,229,83"/>
+<area shape="rect" id="node4" href="$camino_8c.html#ae931765dd4825f919e4c7b608916e5d8" title="Crea la tabla inicial (Matriz)" alt="" coords="125,107,208,133"/>
+</map>

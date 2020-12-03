@@ -1,0 +1,14 @@
+digraph "main"
+{
+ // LATEX_PDF_SIZE
+  edge [fontname="Helvetica",fontsize="10",labelfontname="Helvetica",labelfontsize="10"];
+  node [fontname="Helvetica",fontsize="10",shape=record];
+  rankdir="LR";
+  Node1 [label="main",height=0.2,width=0.4,color="black", fillcolor="grey75", style="filled", fontcolor="black",tooltip=" "];
+  Node1 -> Node2 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node2 [label="CrearTabla",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$simplex_8c.html#a7b38f7bf2bdbd35d9f4e0df7d1ddf584",tooltip="crearTabla() crear tabla inicial simplex"];
+  Node1 -> Node3 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node3 [label="iteraciones",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$simplex_8c.html#aa9a57167f98e73d9241a0dd40a791f82",tooltip="interaciones() encuentra el pivote en la tabla, hace las iteraciones y crea las nuevas tablas y encue..."];
+  Node1 -> Node4 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node4 [label="leeDatos",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$simplex_8c.html#a341293b761aa00556847cb4b9d7a9e58",tooltip="leerDatos() pide al usuario el valor de los datos"];
+}

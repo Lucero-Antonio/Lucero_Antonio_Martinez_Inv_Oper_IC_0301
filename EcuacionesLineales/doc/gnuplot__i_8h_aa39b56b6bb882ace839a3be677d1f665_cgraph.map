@@ -1,0 +1,13 @@
+<map id="gnuplot_plot_once" name="gnuplot_plot_once">
+<area shape="rect" id="node1" title="Open a new session, plot a signal, close the session." alt="" coords="6,157,133,184"/>
+<area shape="rect" id="node2" href="$gnuplot__i_8c.html#a416bd48453ce016d6419f0f39fa5c625" title="Closes a gnuplot session previously opened by gnuplot_init()" alt="" coords="187,5,290,32"/>
+<area shape="rect" id="node3" href="$gnuplot__i_8c.html#af38602f2bf3bf427b4c6af1e3cc6f371" title="Opens up a gnuplot session, ready to receive commands." alt="" coords="195,56,283,83"/>
+<area shape="rect" id="node4" href="$gnuplot__i_8c.html#a6e5c073fc8478c3ea121f308254b683a" title="Change the plotting style of a gnuplot session." alt="" coords="357,81,475,108"/>
+<area shape="rect" id="node5" href="$gnuplot__i_8c.html#a40d69df891d29584351244cf046616b1" title="Plots a 2d graph from a list of doubles." alt="" coords="185,208,292,235"/>
+<area shape="rect" id="node9" href="$gnuplot__i_8c.html#a75d0c98d601621974e9687126f922ebd" title="Plot a 2d graph from a list of points." alt="" coords="182,157,295,184"/>
+<area shape="rect" id="node10" href="$gnuplot__i_8c.html#a7ca8edad06bd82e47329b2ab8341c42e" title="Sets the x label of a gnuplot session." alt="" coords="351,259,481,285"/>
+<area shape="rect" id="node11" href="$gnuplot__i_8c.html#a9227fc7321820f696e91f76c15c6ffe3" title="Sets the y label of a gnuplot session." alt="" coords="351,309,481,336"/>
+<area shape="rect" id="node6" href="$gnuplot__i_8c.html#af0ef8c4e1526d98455a6e5dd71a96c15" title=" " alt="" coords="344,157,488,184"/>
+<area shape="rect" id="node8" href="$gnuplot__i_8c.html#a51bd7367a0dc2f09651c6109963641d1" title=" " alt="" coords="361,208,471,235"/>
+<area shape="rect" id="node7" href="$gnuplot__i_8c.html#a8c71c6b7a0d957fa9280bf4b984bf43a" title="Sends a command to an active gnuplot session." alt="" coords="536,259,632,285"/>
+</map>

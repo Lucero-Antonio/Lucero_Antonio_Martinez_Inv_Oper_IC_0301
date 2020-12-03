@@ -1,0 +1,6 @@
+<map id="main" name="main">
+<area shape="rect" id="node1" title=" " alt="" coords="5,56,56,83"/>
+<area shape="rect" id="node2" href="$simplex_8c.html#a7b38f7bf2bdbd35d9f4e0df7d1ddf584" title="crearTabla() crear tabla inicial simplex" alt="" coords="105,5,189,32"/>
+<area shape="rect" id="node3" href="$simplex_8c.html#aa9a57167f98e73d9241a0dd40a791f82" title="interaciones() encuentra el pivote en la tabla, hace las iteraciones y crea las nuevas tablas y encue..." alt="" coords="104,56,189,83"/>
+<area shape="rect" id="node4" href="$simplex_8c.html#a341293b761aa00556847cb4b9d7a9e58" title="leerDatos() pide al usuario el valor de los datos" alt="" coords="110,107,183,133"/>
+</map>
