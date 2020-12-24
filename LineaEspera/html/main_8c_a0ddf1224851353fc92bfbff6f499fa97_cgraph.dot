@@ -1,0 +1,18 @@
+digraph "main"
+{
+ // LATEX_PDF_SIZE
+  edge [fontname="Helvetica",fontsize="10",labelfontname="Helvetica",labelfontsize="10"];
+  node [fontname="Helvetica",fontsize="10",shape=record];
+  rankdir="LR";
+  Node1 [label="main",height=0.2,width=0.4,color="black", fillcolor="grey75", style="filled", fontcolor="black",tooltip=" "];
+  Node1 -> Node2 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node2 [label="imprimir",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$_linea_espera_8c.html#a356812236d2ca5751c75ea8015664603",tooltip="imprimirHoras() imprime el rango de las horas dados el inicio y fin del rango principal"];
+  Node1 -> Node3 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node3 [label="imprimirHoras",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$_linea_espera_8c.html#a9dff003b1a7e04c39b29c4b5581a07e4",tooltip="imprimirHoras() imprime el rango de las horas dados el inicio y fin del rango principal"];
+  Node1 -> Node4 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node4 [label="Input",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$_linea_espera_8c.html#a3ea149a9c88522498c2a50a2958cc1cc",tooltip="Input() imprime el rango de las horas dados el inicio y fin del rango principal."];
+  Node1 -> Node5 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node5 [label="Output",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$_linea_espera_8c.html#a4bce4ced197e186f55cfc8adbe62e320",tooltip="Output() imprime el rango de las horas dados el inicio y fin del rango principal."];
+  Node1 -> Node6 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node6 [label="salidasClientes",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$_linea_espera_8c.html#ac329e275f6d90d4816f71302d6836eab",tooltip="imprimirHoras() imprime el rango de las horas dados el inicio y fin del rango principal"];
+}
